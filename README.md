@@ -9,14 +9,16 @@ Make sure you have Python installed on your system. You can download it from the
 ## Getting Started
 Clone or download this repository to your local machine.
 Open a terminal or command prompt and navigate to the project directory.
+
 ## Usage
 Run the main.py file to start the Student Management System.
 Follow the on-screen menu to perform various actions:
-Enter 1 to add a new student.
-Enter 2 to update student information.
-Enter 3 to delete a student.
-Enter 4 to view all students.
-Enter 5 to exit the system.
+
+- Enter 1 to add a new student.
+- Enter 2 to update student information.
+- Enter 3 to delete a student.
+- Enter 4 to view all students.
+- Enter 5 to exit the system.
 
 ## The Code
 ### student_management_system.py
