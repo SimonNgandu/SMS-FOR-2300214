@@ -19,6 +19,9 @@ Enter 4 to view all students.
 Enter 5 to exit the system.
 
 ## The Code
+### student_management_system.py
+
+```python
 class Student:
     def _init_(self, student_id, name, age, major):
         self._id = student_id
